@@ -1,0 +1,5 @@
+C:\Users\ajwad\Source\Repos\Personal-Accountant\Personal Accountant\obj\Debug\Personal Accountant.csproj.AssemblyReference.cache
+C:\Users\ajwad\Source\Repos\Personal-Accountant\Personal Accountant\obj\Debug\Personal_Accountant.MainForm.resources
+C:\Users\ajwad\Source\Repos\Personal-Accountant\Personal Accountant\obj\Debug\Personal_Accountant.Properties.Resources.resources
+C:\Users\ajwad\Source\Repos\Personal-Accountant\Personal Accountant\obj\Debug\Personal Accountant.csproj.GenerateResource.cache
+C:\Users\ajwad\Source\Repos\Personal-Accountant\Personal Accountant\obj\Debug\Personal Accountant.csproj.CoreCompileInputs.cache
